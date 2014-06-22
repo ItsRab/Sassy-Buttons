@@ -1,6 +1,6 @@
 # Sassy Buttons
 
-Simple set of CSS3 buttons written in sass.
+Simple set of CSS3 buttons written in sass. Example on [Dribbble](https://dribbble.com/shots/1609885-CSS-Buttons).
 
 ## Using Sassy Buttons
 
